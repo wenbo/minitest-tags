@@ -3,9 +3,9 @@ please take a look at Rakefile, Gemfile, and test/helper.rb. that's it, right?
 
     rake test               # run all test, just
 
-    rake test:on[follow]    # only invoke the test case the desc inlcuding "follow" quoted by parenthesis
+    rake test:on[follow]    # only invoke the test case the desc including "follow" quoted by parenthesis
 
-    rake test:on[login]     # only invoke the test case the desc inlcuding "login" quoted by parenthesis 
+    rake test:on[login]     # only invoke the test case the desc including "login" quoted by parenthesis 
 
 == LICENSE:
 
